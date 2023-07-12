@@ -3,6 +3,7 @@
 #
 # https://github.com/dockerfile/nginx
 #
+#updated this line to check git working as expected
 
 # Pull base image.
 FROM dockerfile/ubuntu
